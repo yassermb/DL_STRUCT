@@ -5,15 +5,16 @@ It's organized in three parts:
 
 PART 1:
 - A brief introduction on DNN
-- A brief introduction on CNN (Convolution, Convolutional layers, Pooling layers, Batch normalization, CNN Architectures, .....)
+- A brief introduction on CNN (Convolution, Convolutional layers, Pooling layers, Batch normalization, CNN Architectures, ...)
 - Properties of CNN (translational-invariant)
-- Concepts like Overfitting, Dropouts, and ...<br>
+- Concepts like Overfitting, Dropouts, and ...
+- Application: classification of handwritten digits
 Google Colab:<br>
 https://colab.research.google.com/drive/1BAc6Sh1lhy06_B56JBRCVY-JWlk743qO?usp=sharing
 
 
 PART 2:
-- Analyizing amino acids and their environment
+- Analyzing amino acids and their environment
 - Application: prediction of the amino acid with and without considering their surroundings
 - Translation and rotation-invariant representation of the local environment
 - 3D-CNN

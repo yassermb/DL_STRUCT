@@ -4,11 +4,12 @@ This is a tutorial on how to use geometric deep learning on protein structures.
 It's organized in three parts:
 
 PART 1:
-- A brief introduction on DNN
-- A brief introduction on CNN (Convolution, Convolutional layers, Pooling layers, Batch normalization, CNN Architectures, ...)
-- Properties of CNN (translational-invariant)
-- Concepts like Overfitting, Dropouts, and ...
+- A brief introduction on Deep Neural Networks (DNN)
+- A brief introduction on Convolutional Neural Networks (CNN): Convolution, Convolutional layers, Pooling layers, Batch normalization, CNN Architectures, ...
+- Properties of CNN: such as translational-invariant
+- Machine learning concepts: such as Overfitting, Dropouts, and ...
 - Application: classification of handwritten digits
+- Training and evaluating a model<br>
 Google Colab:<br>
 https://colab.research.google.com/drive/1BAc6Sh1lhy06_B56JBRCVY-JWlk743qO?usp=sharing
 

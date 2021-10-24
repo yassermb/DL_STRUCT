@@ -8,16 +8,16 @@ PART 1:
 - A brief introduction on Convolutional Neural Networks (CNN): Convolution, Convolutional layers, Pooling layers, Batch normalization, CNN Architectures, ...
 - Properties of CNN: such as translational-invariant
 - Machine learning concepts: such as Overfitting, Dropouts, and ...
-- Application: classification of handwritten digits
+- An application: classification of handwritten digits
 - Training and evaluating a model<br>
 Google Colab:<br>
 https://colab.research.google.com/drive/1BAc6Sh1lhy06_B56JBRCVY-JWlk743qO?usp=sharing
 
 
 PART 2:
-- Analyzing amino acids and their environment
+- Analyzing amino acids and their environments
 - Translation and rotation-invariant representation of the local environment
-- Application: prediction of the amino acid with and without considering their surroundings
+- An application: prediction of the amino acid with and without considering their surroundings
 - Training and evaluating a model
 - A discussion on the results<br>
 Google Colab:<br>

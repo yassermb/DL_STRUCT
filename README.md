@@ -15,11 +15,9 @@ https://colab.research.google.com/drive/1BAc6Sh1lhy06_B56JBRCVY-JWlk743qO?usp=sh
 
 PART 2:
 - Analyzing amino acids and their environment
-- Application: prediction of the amino acid with and without considering their surroundings
 - Translation and rotation-invariant representation of the local environment
-- 3D-CNN
-- Train and test
-- Discussion on the results<br>
+- Application: prediction of the amino acid with and without considering their surroundings
+- A discussion on the results<br>
 Google Colab:<br>
 https://colab.research.google.com/drive/1cQ3POBsdfUM1gg2VN4hX6Ps8ZIC1B7n_?usp=sharing
 

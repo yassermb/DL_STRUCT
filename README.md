@@ -32,7 +32,7 @@ PART 3:
 - Training and evaluating a model
 - Analysis of the results<br>
 Google Colab:<br>
-https://colab.research.google.com/drive/1Cb4OZXMRLlgR09mNjARHkUCqLT4lvJgC?usp=sharing
+https://colab.research.google.com/drive/1Isfgq9F_9rzgaIT6n4R7uFDkHGqGvfA2?usp=sharing
 
 PART 4:
 - A brief introduction on Graph Convolutional Networks (GCN)
